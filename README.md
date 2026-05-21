@@ -10,7 +10,7 @@
 * 🤖 Interested in AI, App Development , APIs, Automation & Cybersecurity
 * 📱 Currently learning and building projects using Flutter, Python & C++
 * 🧠 Exploring system design, AI apps, and modern developer tools
-* 🎯 Goal: Become financially independent through tech and build impactful products
+* 🎯 Focused on building meaningful tech projects, improving every day, and growing as a developer
 * 🌌 Aesthetic coder with a cold/minimal vibe
 
 ---
